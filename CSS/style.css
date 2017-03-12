@@ -1,0 +1,20 @@
+* {
+    color: magenta;
+}
+
+a{
+    color:lime;
+}
+
+a#pierwszy_link{
+    color:cyan;
+}
+
+a.klasa_pierwszego_linku{
+    color: orange;
+}
+
+a{
+    color: blue;
+}
+
